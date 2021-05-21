@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="record.css" ?>
+
+ <Record>
+
+<data> 
+<data-header> ID Criptomoneda </data-header> 
+<data-header> Criptomoneda </data-header> 
+<data-header> Vanzare </data-header> 
+<data-header> Cumparare </data-header> 
+</data>
+
+<data> 
+<data-cell> 01 </data-cell> 
+<data-cell> Bitcoin </data-cell>
+<data-cell> $41,468.64 </data-cell> 
+<data-cell> $40,468.64 </data-cell> 
+</data>
+
+<data> 
+<data-cell> 02 </data-cell> 
+<data-cell> Etherium </data-cell>
+<data-cell> $2,885.83 </data-cell> 
+<data-cell> $2,801.78 </data-cell>
+</data>
+
+ </Record>
